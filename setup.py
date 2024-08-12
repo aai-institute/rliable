@@ -40,12 +40,12 @@ rliable_description = (
     'learning benchmarks.')
 
 setup(
-    name='rliable',
+    name='rliable-fork',
     version='1.2.0',
     description=rliable_description,
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/google-research/rliable',
+    url='https://github.com/aai-institute/rliable',
     author='Rishabh Agarwal',
     classifiers=[
         'Development Status :: 4 - Beta',
